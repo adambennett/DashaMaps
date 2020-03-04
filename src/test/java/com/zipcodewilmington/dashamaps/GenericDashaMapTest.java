@@ -4,32 +4,31 @@ import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
-public class DashaMapTwoTest {
+public class GenericDashaMapTest {
 
-    private DashaMapTwo mapp;
+    private GenericDashaMap<String, Integer> mapp;
 
     @Before
     public void setup(){
-        mapp = new DashaMapTwo();
-        mapp.set("Adam", "1");
-        mapp.set("Is", "2");
-        mapp.set("A", "3");
-        mapp.set("Add", "6");
-        mapp.set("Cool", "4");
-        mapp.set("Guy", "5");
+        mapp = new GenericDashaMap<String, Integer>();
+        mapp.set("Adam", 1);
+        mapp.set("Is", 2);
+        mapp.set("A", 3);
+        mapp.set("Cool", 4);
+        mapp.set("Guy", 5);
     }
 
     @Test
     public void delete() {
-        String expected = "1";
-        String actual = mapp.delete("Adam");
+        Integer expected = 1;
+        Integer actual = mapp.delete("Adam");
         Assert.assertEquals(expected, actual);
     }
 
     @Test
     public void get() {
-        String expected = "1";
-        String actual = mapp.get("Adam");
+        Integer expected = 1;
+        Integer actual = mapp.get("Adam");
         Assert.assertEquals(expected, actual);
     }
 
@@ -41,13 +40,12 @@ public class DashaMapTwoTest {
         mapp.delete("Cool");
         Assert.assertFalse(mapp.isEmpty());
         mapp.delete("Guy");
-        mapp.delete("Add");
         Assert.assertTrue(mapp.isEmpty());
     }
 
     @Test
     public void size() {
-        Long expected = 6l;
+        Long expected = 5l;
         Long actual = mapp.size();
         Assert.assertEquals(expected, actual);
     }
@@ -55,7 +53,7 @@ public class DashaMapTwoTest {
     @Test
     public void bucketSize() {
         Integer expected = 2;
-        Integer actual = mapp.bucketSize("d");
+        Integer actual = mapp.bucketSize("a");
         Assert.assertEquals(expected, actual);
     }
 }

@@ -1,4 +1,6 @@
 com\zipcodewilmington\dashamaps\DashaMapTwoTest.class
+com\zipcodewilmington\dashamaps\GenericWordListTest.class
 com\zipcodewilmington\dashamaps\WordListTest.class
+com\zipcodewilmington\dashamaps\GenericDashaMapTest.class
 com\zipcodewilmington\dashamaps\DashaMapOneTest.class
 com\zipcodewilmington\dashamaps\DashaMapThreeTest.class
