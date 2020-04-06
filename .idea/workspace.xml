@@ -1,7 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16758b06-b4a0-4f1d-844b-c1c64f8682b8" name="Default Changelist" comment="" />
+    <list default="true" id="16758b06-b4a0-4f1d-844b-c1c64f8682b8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DashaMaps.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/DashaMaps-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zipcodewilmington/dashamaps/DashaMapOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zipcodewilmington/dashamaps/DashaMapThree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zipcodewilmington/dashamaps/DashaMapTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zipcodewilmington/dashamaps/GenericDashaMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zipcodewilmington/dashamaps/GenericNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zipcodewilmington/dashamaps/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zipcodewilmington/dashamaps/interfaces/HashMapX.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/word-list.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.zipcodewilmington.dashamaps.DashaMapOneTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.zipcodewilmington.dashamaps.DashaMapThreeTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.zipcodewilmington.dashamaps.DashaMapTwoTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.zipcodewilmington.dashamaps.GenericDashaMapTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.zipcodewilmington.dashamaps.GenericWordListTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.zipcodewilmington.dashamaps.WordListTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.zipcodewilmington.dashamaps.DashaMapOneTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.zipcodewilmington.dashamaps.DashaMapThreeTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.zipcodewilmington.dashamaps.DashaMapTwoTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.zipcodewilmington.dashamaps.GenericDashaMapTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.zipcodewilmington.dashamaps.GenericWordListTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.zipcodewilmington.dashamaps.WordListTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/zipcodewilmington/dashamaps/DashaMapOneTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/zipcodewilmington/dashamaps/DashaMapThreeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/zipcodewilmington/dashamaps/DashaMapTwoTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/zipcodewilmington/dashamaps/GenericDashaMapTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/zipcodewilmington/dashamaps/GenericWordListTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/zipcodewilmington/dashamaps/WordListTest.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,26 +59,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="324" />
-    <option name="y" value="23" />
-    <option name="width" value="1444" />
-    <option name="height" value="926" />
-  </component>
   <component name="ProjectId" id="1Ye5YTxuXMsOPDfeJIc658u3x1z" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -46,6 +72,9 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565362466667" />
@@ -53,6 +82,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -61,7 +91,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
@@ -88,7 +118,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.GenericWordListTest">
+  <component name="RunManager" selected="JUnit.com.zipcodewilmington.dashamaps in DashaMaps">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -142,22 +172,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WordListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="DashaMaps" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.zipcodewilmington.dashamaps.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.zipcodewilmington.dashamaps" />
-      <option name="MAIN_CLASS_NAME" value="com.zipcodewilmington.dashamaps.WordListTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="WordListTest.bucketSize" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="DashaMaps" />
       <extension name="coverage">
@@ -182,25 +196,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.zipcodewilmington.dashamaps in DashaMaps" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DashaMaps" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zipcodewilmington.dashamaps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zipcodewilmington.dashamaps" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DashaMaps [clean,install]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
       <MavenSettings>
         <option name="myGeneralSettings" />
-        <option name="myRunnerSettings">
-          <MavenRunnerSettings>
-            <option name="delegateBuildToMaven" value="false" />
-            <option name="environmentProperties">
-              <map />
-            </option>
-            <option name="jreName" value="1.8" />
-            <option name="mavenProperties">
-              <map />
-            </option>
-            <option name="passParentEnv" value="true" />
-            <option name="runMavenInBackground" value="true" />
-            <option name="skipTests" value="false" />
-            <option name="vmOptions" value="" />
-          </MavenRunnerSettings>
-        </option>
+        <option name="myRunnerSettings" />
         <option name="myRunnerParameters">
           <MavenRunnerParameters>
             <option name="profiles">
@@ -217,7 +231,34 @@
               <map />
             </option>
             <option name="resolveToWorkspace" value="false" />
-            <option name="workingDirPath" value="$PROJECT_DIR$/../../DashaMaps" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="mvn" />
+                <option value="clean" />
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
           </MavenRunnerParameters>
         </option>
       </MavenSettings>
@@ -242,20 +283,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.WordListTest" />
-      <item itemvalue="Maven.DashaMaps [clean,install]" />
       <item itemvalue="JUnit.WordListTest.bucketSize" />
       <item itemvalue="JUnit.All in DashaMaps" />
       <item itemvalue="JUnit.GenericDashaMapTest" />
       <item itemvalue="JUnit.GenericWordListTest" />
+      <item itemvalue="Maven.DashaMaps [clean,install]" />
+      <item itemvalue="JUnit.com.zipcodewilmington.dashamaps in DashaMaps" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.com.zipcodewilmington.dashamaps in DashaMaps" />
         <item itemvalue="JUnit.GenericWordListTest" />
         <item itemvalue="JUnit.GenericDashaMapTest" />
         <item itemvalue="JUnit.All in DashaMaps" />
         <item itemvalue="JUnit.WordListTest.bucketSize" />
-        <item itemvalue="JUnit.WordListTest" />
       </list>
     </recent_temporary>
   </component>
@@ -271,46 +312,54 @@
       <updated>1565357944193</updated>
       <workItem from="1565357947238" duration="6000" />
       <workItem from="1565357963802" duration="4390000" />
-      <workItem from="1583290267359" duration="8453000" />
+      <workItem from="1583290267359" duration="8704000" />
+      <workItem from="1583542133767" duration="625000" />
+      <workItem from="1585757269299" duration="4144000" />
+      <workItem from="1585774421218" duration="77000" />
+      <workItem from="1586209593943" duration="63000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="49" width="1089" height="775" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583297329350">
+    <state x="223" y="49" width="1118" height="775" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585757890108">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="223" y="49" width="1089" height="775" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.174.1280.680/0.0.1536.824@0.0.1536.824" timestamp="1583297329350" />
+    <state x="223" y="49" width="1118" height="775" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.174.1280.680/0.0.1536.824@0.0.1536.824" timestamp="1585757890108" />
     <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1583298314471">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/1920.174.1280.680/0.0.1536.824@0.0.1536.824" timestamp="1583298314471" />
-    <state x="400" y="101" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1583294127113">
+    <state x="400" y="101" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1585763875941">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="400" y="101" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/1920.174.1280.680/0.0.1536.824@0.0.1536.824" timestamp="1583294127113" />
+    <state x="400" y="101" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/1920.174.1280.680/0.0.1536.824@0.0.1536.824" timestamp="1585763875941" />
     <state x="562" y="271" width="439" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1583294217606">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="562" y="271" width="439" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/1920.174.1280.680/0.0.1536.824@0.0.1536.824" timestamp="1583294217606" />
-    <state width="1493" height="204" key="GridCell.Tab.0.bottom" timestamp="1583299223175">
+    <state x="354" y="0" key="CommitChangelistDialog2" timestamp="1586209622294">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="204" key="GridCell.Tab.0.bottom/1920.174.1280.680/0.0.1536.824@0.0.1536.824" timestamp="1583299223175" />
-    <state width="1493" height="204" key="GridCell.Tab.0.center" timestamp="1583299223175">
+    <state x="354" y="0" key="CommitChangelistDialog2/1920.174.1280.680/0.0.1536.824@0.0.1536.824" timestamp="1586209622294" />
+    <state width="1493" height="204" key="GridCell.Tab.0.bottom" timestamp="1585772672284">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="204" key="GridCell.Tab.0.center/1920.174.1280.680/0.0.1536.824@0.0.1536.824" timestamp="1583299223175" />
-    <state width="1493" height="204" key="GridCell.Tab.0.left" timestamp="1583299223175">
+    <state width="1493" height="204" key="GridCell.Tab.0.bottom/1920.174.1280.680/0.0.1536.824@0.0.1536.824" timestamp="1585772672284" />
+    <state width="1493" height="204" key="GridCell.Tab.0.center" timestamp="1585772672284">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="204" key="GridCell.Tab.0.left/1920.174.1280.680/0.0.1536.824@0.0.1536.824" timestamp="1583299223175" />
-    <state width="1493" height="204" key="GridCell.Tab.0.right" timestamp="1583299223175">
+    <state width="1493" height="204" key="GridCell.Tab.0.center/1920.174.1280.680/0.0.1536.824@0.0.1536.824" timestamp="1585772672284" />
+    <state width="1493" height="204" key="GridCell.Tab.0.left" timestamp="1585772672284">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="204" key="GridCell.Tab.0.right/1920.174.1280.680/0.0.1536.824@0.0.1536.824" timestamp="1583299223175" />
+    <state width="1493" height="204" key="GridCell.Tab.0.left/1920.174.1280.680/0.0.1536.824@0.0.1536.824" timestamp="1585772672284" />
+    <state width="1493" height="204" key="GridCell.Tab.0.right" timestamp="1585772672284">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="204" key="GridCell.Tab.0.right/1920.174.1280.680/0.0.1536.824@0.0.1536.824" timestamp="1585772672284" />
     <state x="787" y="434" width="723" height="252" key="GridCell.Tab.1.bottom" timestamp="1583297657490">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -359,10 +408,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="723" height="252" key="GridCell.Tab.3.right/1920.174.1280.680/0.0.1536.824@0.0.1536.824" timestamp="1583297657481" />
-    <state x="249" y="0" key="SettingsEditor" timestamp="1583297271058">
+    <state x="249" y="0" key="SettingsEditor" timestamp="1586209657087">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="249" y="0" key="SettingsEditor/1920.174.1280.680/0.0.1536.824@0.0.1536.824" timestamp="1583297271058" />
+    <state x="249" y="0" key="SettingsEditor/1920.174.1280.680/0.0.1536.824@0.0.1536.824" timestamp="1586209657087" />
     <state x="498" y="305" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1583293766088">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
